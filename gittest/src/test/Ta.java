@@ -2,6 +2,7 @@ package test;
 
 
 public class Ta {
+	static int I=0;
 	public int sum(int x,int y){
 		return x+y;
 	}
@@ -10,4 +11,5 @@ public class Ta {
 		int b = 12;
 		a+=b;
 	}
+	
 }
